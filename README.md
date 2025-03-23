@@ -1,6 +1,6 @@
 Pipeline de Dados IoT com Docker e PostgreSQL 🖥
 
-Este projeto processa leituras de temperatura de dispositivos IoT e exibe os dados em um dashboard.
+Este projeto processa leituras de temperatura de dispositivos IoT e exibe os dados em um dashboard em tempo real.
 
 Tecnologias usadas no projeto:
 
