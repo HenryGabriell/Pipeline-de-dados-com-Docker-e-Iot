@@ -23,8 +23,10 @@ docker compose up --build
 
 Acesse o dashboard no Navegador
 http://localhost:8501
-
-
+<br>
+OBS: Lembrando que precisa ter o Docker rodando no computador, caso nao tenha utilize o github codespaces para rodar o projeto.
+<br>
+<br>
 Dashboard:
 <br>
 <img width="553" alt="ftt003" src="https://github.com/user-attachments/assets/8f7d0e6f-adb7-4010-bb31-e3d1a98022d6" />
